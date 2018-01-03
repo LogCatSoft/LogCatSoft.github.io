@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# 欢迎来到我的前端开发学习记录 主要官网
 
-You can use the [editor on GitHub](https://github.com/LogCatSoft/LogCatSoft.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### [庆哥的网站](https://zptcsoft.github.io)       [我的Github主页](https://github.com/wzlsz)       [我的个人主页](https://wzlsz.github.io/HomePage/index.html)     [我的acm代码](https://github.com/wzlsz/C-code)
+## 学习社区:
+### [极客学院](https://www.jikexueyuan.com) <nsbr/><nsbr/><nsbr/>  [慕课网](https://www.imooc.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 学习资源
+### [js阮一峰教程](http://javascript.ruanyifeng.com/)
+### [IT资源社区(CSDN)](http://www.csdn.net/)
+### [git常用命令](https://github.com/BestACE/fed/issues/339)
+## 案例
+### [电子钟](https://wzlsz.github.io/Animation/Ultraman/index.html)
+### [表格变色效果](https://wzlsz.github.io/table/index.html)
+### [猜数字效果](https://wzlsz.github.io/wzlsz/demo3/index.html)<br/>
+### [抽奖游戏](https://wzlsz.github.io/wzlsz/Prize/index.html)   
+### [网页内嵌页面](https://wzlsz.github.io/JavaScript/tab2/index.html)
+### [水晶球](https://wzlsz.github.io/JavaScript/snow/index.html)
+### [魔法阵效果(demo_css3)](https://wzlsz.github.io/magicWizard/index.html)
+### [左右脑测试](https://wzlsz.github.io/JavaScript/Left_and_Right/animation.html)
+<br/>
+<br/>
+## 我们的团队项目
+### [市心酒楼官网](https://bestace.github.io/Restaurant-website/Restaurant-v3/banner.html)
+---
+###  学习经历
+   C语言
+   PS
+   Linux操作系统
+   Html
+   Java入门
+   Linux操作系统
+   JavaScript
+   Java高级
+   Android
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LogCatSoft/LogCatSoft.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+## 我的邮箱：
+### 13857769302@163.com<br/>1043946450@qq.com
+<br/>
+<br/>
+<br/>
